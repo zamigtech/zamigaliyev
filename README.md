@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Zamig Aliyev</h1>
 <h3 align="center">I am Backend Developer</h3>
 
-- 🔭 I’m currently working on [kapitalbank.az/](kapitalbank.az/)
+- 🔭 I’m currently working on https://www.kapitalbank.az/
 
 - 🌱 I’m currently learning **Chatbot Development.**
 
