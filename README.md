@@ -13,9 +13,6 @@
 <p align="left">
 <a href="https://twitter.com/zamigtech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="zamigtech" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/zamigaliyev/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="zamigaliyev/" height="30" width="40" /></a>
-<a href="https://fb.com/zamigtech/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="zamigtech/" height="30" width="40" /></a>
-<a href="https://instagram.com/zamigtech/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="zamigtech/" height="30" width="40" /></a>
-<a href="https://medium.com/@zamigtech" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@zamigtech" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
