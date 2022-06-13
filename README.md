@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Kapital Bank OJSC](https://www.kapitalbank.az/)
 
-- 🌱 I’m currently learning **DevOps.**
+- 🌱 I’m currently learning **DevOps Engineering.**
 
 - 💬 Ask me about **Python or any tech related stuff.**
 
