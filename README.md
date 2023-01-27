@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Zamig Aliyev</h1>
-<h3 align="center">I am Backend Developer</h3>
+<h3 align="center">I am Python & DevOps Engineerr</h3>
 
 - 🔭 I’m currently working on [Kapital Bank OJSC](https://www.kapitalbank.az/)
 
