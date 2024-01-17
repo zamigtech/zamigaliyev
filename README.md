@@ -8,7 +8,7 @@
 - 📫 How to reach me **zamigtech@gmail.com**
 
 
-## Hi there 👋
+## Your discovery of my profile has genuinely pleased me 🥳
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=roboto&color=000000ff&size=18&vCenter=true&height=20&lines=I'm+Zamig+Aliyev;My+technical+skills.;)](https://github.com/zamigtech)
 
 ![](https://komarev.com/ghpvc/?username=zamigtech&style=flat&color=blue)
